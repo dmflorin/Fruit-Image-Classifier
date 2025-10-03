@@ -32,3 +32,6 @@ Observations:
 
 ### Confusion Matrix Example
 ![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### Prediction Examples
+![Prediction Example](screenshots/prediction_examples.png)
